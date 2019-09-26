@@ -5,3 +5,30 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+require 'json'
+
+file = File.read('db/ta.json')
+data_hash = JSON.parse(file)
+
+data_hash.length.times do |d|
+
+  if data_hash[d.to_s]['city'].include?('/')
+    location_fix = data_hash[d.to_s]['city'].split('/')[1] + ' ' + data_hash[d.to_s]['location']
+    city_fix = data_hash[d.to_s]['city'].split('/')[0]
+  else
+    location_fix = data_hash[d.to_s]['location']
+    city_fix = data_hash[d.to_s]['city']
+  end
+
+  Antenna.create({
+                   city: city_fix,
+                   band: data_hash[d.to_s]['band'],
+                   location: location_fix,
+                   frequency: data_hash[d.to_s]['frequency'],
+                   tone: data_hash[d.to_s]['tone'],
+                   sql: data_hash[d.to_s]['sql'],
+                   status: data_hash[d.to_s]['status'],
+                   date_updated: data_hash[d.to_s]['date_updated']
+                 })
+end
