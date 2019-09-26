@@ -80,6 +80,7 @@ test:
 #
 production:
   <<: *default
-  database: apis_production
-  username: apis
-  password: <%= ENV['APIS_DATABASE_PASSWORD'] %>
+  database: ['APIS_ZAVODX_DATABASE']
+  username: ['APIS_ZAVODX_USERNAME']
+  password: ['APIS_ZAVODX_PASSWORD']
+  #password: <%= ENV['APIS_DATABASE_PASSWORD'] %>
