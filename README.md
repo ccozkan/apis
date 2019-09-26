@@ -1,24 +1,39 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I plan to serve few apis at https://apis.zavodx.com
 
-Things you may want to cover:
+So far the list is
+- /antennas
 
-* Ruby version
+## /antennas
+API service(get only) is online at https://apis.zavodx.com/antennas
+Repeaters located in Turkey for VHF, UHF, APRS, ECHOLINK frequencies. 
+List source: https://www.radyoamatorleri.com/depo/linkver/html/TA_ROLE.html
 
-* System dependencies
+### responses
 
-* Configuration
+`/`
+returns all the avaible antennas
 
-* Database creation
+#### city search
+returns all the band type antennas in related city
 
-* Database initialization
+ex:
 
-* How to run the test suite
+`/city?c=IZMIR`
 
-* Services (job queues, cache servers, search engines, etc.)
+#### band search
+returns the related antennas in all cities.
 
-* Deployment instructions
+ex:
 
-* ...
+`/band?b=APRS`
+
+#### city and band search
+returns the related antennas in related city
+
+ex:
+
+`/city_band?c=IZMIR&b=UHF`
+
+
