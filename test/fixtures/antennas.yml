@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: MyString
+  location: MyString
+  band: MyString
+  frequency: MyString
+  tone: MyString
+  sql: MyString
+  status: 1
+  date_updated: MyString
+
+two:
+  city: MyString
+  location: MyString
+  band: MyString
+  frequency: MyString
+  tone: MyString
+  sql: MyString
+  status: 1
+  date_updated: MyString

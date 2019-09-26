@@ -1,0 +1,2 @@
+class Antenna < ApplicationRecord
+end
