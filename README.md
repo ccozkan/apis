@@ -1,12 +1,12 @@
 # README
 
-I plan to serve few apis at https://apis.zavodx.com
+I plan to serve few apis at http://apis.zavodx.com
 
 So far the list is
 - /antennas
 
 ## /antennas
-API service(get only) is online at https://apis.zavodx.com/antennas
+API service(get only) is online at http://apis.zavodx.com/antennas
 Repeaters located in Turkey for VHF, UHF, APRS, ECHOLINK frequencies. 
 List source: https://www.radyoamatorleri.com/depo/linkver/html/TA_ROLE.html
 
