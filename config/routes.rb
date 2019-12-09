@@ -8,5 +8,5 @@ Rails.application.routes.draw do
   get '/antennas/city_band'
   resources :antennas, only: [:index, :show]
 
-
+  resources :beverages, only: [:index, :show]
 end
