@@ -33,18 +33,30 @@ data_hash.length.times do |d|
                  })
 end
 
-
 file = File.read('db/recipes_fixed.json')
 data_hash = JSON.parse(file)
 
 data_hash.length.times do |d|
 
   Beverage.create({
-                    name: data_hash[d]['name'],
+                    name: data_hash[d]['name'].downcase,
                     glass: data_hash[d]['glass'],
-                    category: data_hash[d]['category'],
+                    category: data_hash[d]['category'].downcase,
                     garnish: data_hash[d]['garnish'],
                     preparation: data_hash[d]['preparation'],
                     ingredients: data_hash[d]['ingredients']
+                  })
+end
+
+file = File.read('db/radio_stations.json')
+data_hash = JSON.parse(file)
+
+data_hash.length.times do |d|
+
+  RadioStation.create({
+                    name: data_hash[d]['name'].downcase,
+                    url: data_hash[d]['url'],
+                    genre: data_hash[d]['genre'].downcase,
+                    country: data_hash[d]['country'].downcase
                   })
 end
