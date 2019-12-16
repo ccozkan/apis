@@ -3,28 +3,28 @@ class AntennasController < ApplicationController
 
   def index
     antenna = Antenna.all
-    render json: {status: 'GO', data: antenna}
+    render json: {status: 1, data: antenna}
 
   end
 
   def show
     antenna = Antenna.find(params[:id])
-    render json: {status: 'GO', data: antenna}, status: :ok
+    render json: {status: 1, data: antenna}
   end
 
   def city
     antenna = Antenna.city_name(turkish_to_capitalascii(params[:c]))
-    render json: {status: 'GO', data: antenna}
+    render json: {status: 1, data: antenna}
   end
 
   def band
     antenna = Antenna.band_type(params[:b].upcase)
-    render json: {status: 'GO', data: antenna}, status: :ok
+    render json: {status: 1, data: antenna}
   end
 
   def city_band
     antenna = Antenna.city_and_band(turkish_to_capitalascii(params[:c]), params[:b].upcase)
-    render json: {status: 'GO', data: antenna}
+    render json: {status: 1, data: antenna}
   end
 
   private
