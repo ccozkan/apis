@@ -9,4 +9,9 @@ class BeveragesController < ApplicationController
     render json: {status: 'GO', data: beverage}, status: :ok
   end
 
+  def name
+    beverage = Beverage.beverage_name(params[:q].downcase)
+    render json: {status: 'GO', data: beverage}
+  end
+
 end
