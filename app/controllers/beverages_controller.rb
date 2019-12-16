@@ -14,4 +14,8 @@ class BeveragesController < ApplicationController
     render json: {status: 'GO', data: beverage}
   end
 
+  def category
+    beverage = Beverage.beverage_category(params[:q].downcase)
+    render json: {status: 'GO', data: beverage}
+  end
 end
