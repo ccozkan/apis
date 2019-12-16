@@ -41,7 +41,7 @@ data_hash.length.times do |d|
   Beverage.create({
                     name: data_hash[d]['name'].downcase,
                     glass: data_hash[d]['glass'],
-                    category: data_hash[d]['category'].downcase,
+                    category: data_hash[d]['category'],
                     garnish: data_hash[d]['garnish'],
                     preparation: data_hash[d]['preparation'],
                     ingredients: data_hash[d]['ingredients']
@@ -56,7 +56,7 @@ data_hash.length.times do |d|
   RadioStation.create({
                     name: data_hash[d]['name'].downcase,
                     url: data_hash[d]['url'],
-                    genre: data_hash[d]['genre'].downcase,
-                    country: data_hash[d]['country'].downcase
+                    genre: data_hash[d]['genre'],
+                    country: data_hash[d]['country']
                   })
 end
