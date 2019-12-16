@@ -32,3 +32,19 @@ data_hash.length.times do |d|
                    date_updated: data_hash[d.to_s]['date_updated']
                  })
 end
+
+
+file = File.read('db/recipes_fixed.json')
+data_hash = JSON.parse(file)
+
+data_hash.length.times do |d|
+
+  Beverage.create({
+                    name: data_hash[d]['name'],
+                    glass: data_hash[d]['glass'],
+                    category: data_hash[d]['category'],
+                    garnish: data_hash[d]['garnish'],
+                    preparation: data_hash[d]['preparation'],
+                    ingredients: data_hash[d]['ingredients']
+                  })
+end
