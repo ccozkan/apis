@@ -20,4 +20,9 @@ class RadioStationsController < ApplicationController
     render json: {status: 1, data: radio_station}
   end
 
+  def name
+    radio_station = RadioStation.where(name: + params[:q].downcase)
+    render json: {status: 1, data: radio_station}
+  end
+
 end
