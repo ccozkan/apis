@@ -18,4 +18,10 @@ class BeveragesController < ApplicationController
     beverage = Beverage.beverage_category(params[:q].downcase)
     render json: {status: 1, data: beverage}
   end
+
+  def search
+    beverage = Beverage.where('name LIKE ?', '%' + params[:q].downcase + '%')
+    render json: {status: 1, data: beverage}
+  end
+
 end
