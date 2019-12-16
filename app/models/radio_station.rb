@@ -1,0 +1,2 @@
+class RadioStation < ApplicationRecord
+end
