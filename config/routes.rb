@@ -11,8 +11,10 @@ Rails.application.routes.draw do
 
   get '/beverages/name'
   get '/beverages/category'
+  get '/beverages/search'
   resources :beverages, only: [:index, :show]
 
   get 'radio_stations/random'
+  get 'radio_stations/search'
   resources :radio_stations, only: [:index, :show]
 end
