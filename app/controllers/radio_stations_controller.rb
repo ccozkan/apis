@@ -15,4 +15,9 @@ class RadioStationsController < ApplicationController
     render json: {status: 1, data: radio_station}
   end
 
+  def search
+    radio_station = RadioStation.where('name LIKE ?', '%' + params[:q].downcase + '%')
+    render json: {status: 1, data: radio_station}
+  end
+
 end
