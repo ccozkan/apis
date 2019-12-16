@@ -16,5 +16,7 @@ Rails.application.routes.draw do
 
   get 'radio_stations/random'
   get 'radio_stations/search'
+  get 'radio_stations/name'
+  get 'radio_stations/genre'
   resources :radio_stations, only: [:index, :show]
 end
