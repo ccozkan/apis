@@ -1,85 +1,98 @@
 
-# Table of Contents
-
-1.  [README](#orga2d7973)
-    1.  [/antennas](#orgd64eaf5)
-        1.  [responses](#org791cd0e)
-    2.  [/beverages](#org88d3043)
-        1.  [responses](#org455b227)
-
-
-<a id="orga2d7973"></a>
 
 # README
 
 I plan to serve few apis at <http://apis.zavodx.com>
-
 So far the list is
 
--   /antennas
--   /beverages
+-   [antennas](#orge642a7f)
+-   [beverages](#orgfa3602c)
+-   [radio stations](#org834af16)
 
 
-<a id="orgd64eaf5"></a>
+<a id="orge642a7f"></a>
 
-## /antennas
+## antennas
 
-It returns related information for repeaters located in Turkey with VHF, UHF, APRS, ECHOLINK frequencies. 
+It returns related information for repeaters located in Turkey with VHF, UHF, APRS, ECHOLINK frequencies. Here is the [source](https://www.radyoamatorleri.com/depo/linkver/html/TA_ROLE.html) used.
 API service (GET) is online at <http://apis.zavodx.com/antennas>
-List source: <https://www.radyoamatorleri.com/depo/linkver/html/TA_ROLE.html>
 
-
-<a id="org791cd0e"></a>
 
 ### responses
 
-   `/` 
+   `/antennas/` 
 returns all the antennas
 
 1.  city search
 
     returns all the band type antennas in related city
-    
-    ex:
-    `/city?c=IZMIR`
+    `/antennas/city?c=IZMIR`
 
 2.  band search
 
     returns the related antennas in all cities.
-    
-    ex:
-    `/band?b=APRS`
+    `/antennas/band?b=APRS`
 
 3.  city and band search
 
     returns the related antennas in related city
-    
-    ex:
-    `/city_band?c=IZMIR&b=UHF`
+    `/antennas/city_band?c=IZMIR&b=UHF`
 
 
-<a id="org88d3043"></a>
+<a id="orgfa3602c"></a>
 
-## /beverages
+## beverages
 
 It returns related recipe for cocktails from [teijo/iba-cocktails](https://github.com/teijo/iba-cocktails). You can also see <https://iba-world.com/iba-cocktails/>.
 API service (GET) is online at <http://apis.zavodx.com/beverages>
 
 
-<a id="org455b227"></a>
-
 ### responses
 
-    `/` 
+    `/beverages/` 
 returns all the available beverages
 
 1.  name search
 
-    ex:
-    `/name?q=old fashioned`
+    `/beverages/name?q=old fashioned`
 
 2.  category search
 
-    ex:
-    `/category?q=All Day Cocktail`
+    `/beverages/category?q=All Day Cocktail`
+
+3.  search wildcard
+
+    `/beverages/search?q=moj`
+    returns beverages those contain 'moj' in their name (like mojito!)
+
+
+<a id="org834af16"></a>
+
+## radio stations
+
+It returns radio stations with their stream url and other informations.
+API service (GET) is online at <http://apis.zavodx.com/radio_stations>
+
+
+### responses
+
+    `/radio_stations/` 
+returns all the available beverages
+
+1.  random
+
+        `/radio_stations/random` 
+    returns a random tuning
+
+2.  name search
+
+    `/radio_stations/name?q=slowtime`
+
+3.  genre search
+
+    `/radio_stations/genre?q=rock`
+
+4.  search wildcard
+
+    `/radio_stations/search?q=slowti`
 
