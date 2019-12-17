@@ -29,4 +29,9 @@ class RadioStationsController < ApplicationController
     radio_station = RadioStation.where(genre: + params[:q].downcase)
     render json: { status: 1, data: radio_station }
   end
+
+  def country
+    radio_station = RadioStation.where(country: + params[:q].upcase)
+    render json: { status: 1, data: radio_station }
+  end
 end
