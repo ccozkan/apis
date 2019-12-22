@@ -1,3 +1,4 @@
+# coding: utf-8
 # :nodoc:
 class RadioStationsController < ApplicationController
   def index
@@ -16,8 +17,12 @@ class RadioStationsController < ApplicationController
   end
 
   def search
-    radio_station = RadioStation.where('name LIKE ?', '%' + params[:q].downcase + '%')
-    render json: { status: 1, data: radio_station }
+    if params[:q].size >1
+        radio_station = RadioStation.where('name LIKE ?', '%' + turkish_to_capitalascii(params[:q].upcase) + '%')
+        render json: { status: 1, data: radio_station }
+    else
+      render json: { status: 0, text: 'MORE THAN ONE CHARACTER IS NEEDED' }
+    end
   end
 
   def name
@@ -33,5 +38,10 @@ class RadioStationsController < ApplicationController
   def country
     radio_station = RadioStation.where(country: + params[:q].upcase)
     render json: { status: 1, data: radio_station }
+  end
+
+  private
+  def turkish_to_capitalascii(word)
+    word.upcase.gsub('Ç','C').gsub('Ğ','G').gsub('İ','I').gsub('Ö','O').gsub('Ş','S').gsub('Ü','U')
   end
 end
