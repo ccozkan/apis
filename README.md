@@ -6,13 +6,13 @@ I provide some API's for some of my projects. They are online at [https://apis.z
 
 The list is
 
--   [antennas](#orgee0b4ae)
--   [beverages](#org7b3ccd5)
--   [radio stations](#orgeea6c1b)
--   [quotes](#org0123bf5)
+-   [antennas](#orgbf83c04)
+-   [beverages](#org36220fc)
+-   [radio stations](#orgff668aa)
+-   [quotes](#org22dc682)
 
 
-<a id="orgee0b4ae"></a>
+<a id="orgbf83c04"></a>
 
 ## antennas
 
@@ -29,7 +29,7 @@ API service (GET) is online at <http://apis.zavodx.com/antennas>
 `/antennas/city_band?c=IZMIR&b=UHF` returns the related antennas in related city
 
 
-<a id="org7b3ccd5"></a>
+<a id="org36220fc"></a>
 
 ## beverages
 
@@ -46,7 +46,7 @@ API service (GET) is online at <http://apis.zavodx.com/beverages>
 `/beverages/search?q=moj` wild card search, returns beverages those contain 'moj' in their name (like mojito!)
 
 
-<a id="orgeea6c1b"></a>
+<a id="orgff668aa"></a>
 
 ## radio stations
 
@@ -67,7 +67,7 @@ API service (GET) is online at <http://apis.zavodx.com/radio_stations>
 `/radio_stations/search?q=slowti` wildcard search
 
 
-<a id="org0123bf5"></a>
+<a id="org22dc682"></a>
 
 ## quotes
 
