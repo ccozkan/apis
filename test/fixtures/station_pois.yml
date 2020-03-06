@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  lat: 9.99
+  lon: 9.99
+  url: MyString
+  page_id: 1
+  tag: MyString
+  station: one
+
+two:
+  title: MyString
+  lat: 9.99
+  lon: 9.99
+  url: MyString
+  page_id: 1
+  tag: MyString
+  station: two
