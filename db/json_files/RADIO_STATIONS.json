@@ -1,0 +1,146 @@
+[
+    {
+	      "name" : "RADYO EKSEN",
+	      "url" : "http://eksenwmp.radyotvonline.com/;stream.mp3",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+    {
+	      "name" : "RADYO 3",
+	      "url" : "https://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+    {
+	      "name" : "JOY FM",
+	      "url" : "https://18463.live.streamtheworld.com/JOY_FMAAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+    {
+	      "name" : "JOYTURK AKUSTIK",
+	      "url" : "https://17773.live.streamtheworld.com/JOYTURK_AKUSTIK128AC.aac",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+    {
+	      "name" : "RADIO SLOWTIME",
+	      "url" : "http://wowza1.radyotvonline.com/saran/slowtime.stream/playlist.m3u8",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+    {
+	      "name" : "RADIO BABYLON",
+	      "url" : "http://46.20.4.42/pozitif/smil:babylon.smil/playlist.m3u8",
+	      "country" : "TR",
+        "genre": "-"
+    },
+    {
+	      "name" : "LOUNGE FM",
+	      "url" : "http://37.1.144.106:9003/;",
+	      "country" : "TR",
+        "genre": "-"
+    },
+    {
+        "name": "RADYO KORDELYA",
+        "url": "http://38.96.148.39:8488/;*.mp3",
+	      "country" : "TR",
+        "genre": "-"
+    },
+
+		{
+			  "name" : "RADYO KOMSU",
+			  "url" : "https://21253.live.streamtheworld.com/SC023_SO1AAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "greatesthits",
+			  "url" : "https://21293.live.streamtheworld.com/SC030_SO1AAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "POP 90",
+			  "url" : "https://17703.live.streamtheworld.com/POP90128AAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "JOY JAZZ",
+			  "url" : "https://17753.live.streamtheworld.com/JOY_JAZZ128AAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "KAFA RADYO",
+			  "url" : "http://46.20.3.245/stream/510/;",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "PAL NOSTALJI",
+			  "url" : "http://shoutcast.radyogrup.com:1010/;stream/1",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "RADYO VOYAGE",
+			  "url" : "http://voyagewmp.radyotvonline.com/;stream.mp3",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "RADYO ODTU",
+			  "url" : "http://stream.radyoodtu.com.tr/canli;",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "STANDART FM",
+			  "url" : "https://mn-nl.mncdn.com/kaybedenlerkulubu/live/playlist.m3u8",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "RADYO KI",
+			  "url" : "http://radyoki.kocaeli.edu.tr:8000/;stream.mp3",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "BORUSAN KLASIK",
+			  "url" : "https://17773.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "ACS RADYO",
+			  "url" : "http://yayin.netradyom.com:11150/live",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "ACIK RADYO",
+			  "url" : "http://stream.34bit.net/ar64.mp3",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "DINAMO FM",
+			  "url" : "https://channels.dinamo.fm/legacy-mp3",
+	      "country" : "TR",
+        "genre": "-"
+		},
+		{
+			  "name" : "RADIO REBEL",
+			  "url" : "https://icecast.teveo.cu/zrXXWK9F",
+	      "country" : "CU",
+        "genre": "-"
+		}
+]
