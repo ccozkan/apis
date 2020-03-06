@@ -1,3 +1,4 @@
+# coding: utf-8
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
@@ -48,28 +49,45 @@ data.length.times do |d|
                   })
 end
 
-file = File.read('db/json_files/RADIO_STATIONS.json')
+file = File.read('db/json_files/turkishstations.json')
+#file = File.read('db/json_files/RADIO_STATIONS.json')
 data = JSON.parse(file)
 
 data.length.times do |d|
 
   RadioStation.create({
-                    name: data[d]['name'].upcase,
-                    url: data[d]['url'],
-                    genre: data[d]['genre'],
-                    country: data[d]['country']
+
+#                    name: data[d]['name'].upcase.gsub(),
+
+                    name: data[d]['name'].upcase.gsub('Ç','C').gsub('Ğ','G').gsub('İ','I').gsub('Ö','O').gsub('Ş','S').gsub('Ü','U').gsub('-','').gsub('1','').gsub('2','').gsub('3','').gsub('4','').gsub('5','').gsub('6','').gsub('7','').gsub('8','').gsub('9','').gsub('0','').gsub('.',''),
+                    url: data[d]['url']
+#                    genre: data[d]['genre'],
+#                    country: data[d]['country']
                   })
 end
 
-file = File.read('db/json_files/QUOTES.json')
-data = JSON.parse(file)
 
-data.length.times do |d|
 
-  if data[d]['text'].length > 0
-    Quote.create({
-                         author: data[d]['author'],
-                         text: data[d]['text']
-                      })
-  end
+file = File.read('db/json_files/DATA.json')
+data_stations = JSON.parse(file)
+
+data_stations.length.times do |d|
+
+  Station.create({
+                   lat: data_stations[d]['lat'],
+                   lon: data_stations[d]['lon'],
+                   name: data_stations[d]['name']
+                 })
+                   data_stations[d]['pois'].length.times do |p|
+                     StationPoi.create({
+                                        lat: data_stations[d]['pois'][p]['lat'],
+                                        lon: data_stations[d]['pois'][p]['lon'],
+                                        station_id: d,
+                                        page_id: data_stations[d]['pois'][p]['pageid'],
+                                        dist: data_stations[d]['pois'][p]['dist'],
+                                        url: data_stations[d]['pois'][p]['url'],
+                                        tag: data_stations[d]['pois'][p]['tag'],
+                                        summary: data_stations[d]['pois'][p]['summary']
+                 })
+                   end
 end
