@@ -22,6 +22,7 @@ Rails.application.routes.draw do
   resources :radio_stations, only: [:index, :show]
 
   get 'quotes/random'
+  get 'trivia/random'
 
 
 #  resources :stations, only: [:index, :show]

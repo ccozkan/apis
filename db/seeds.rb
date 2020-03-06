@@ -71,6 +71,7 @@ end
 file = File.read('db/json_files/DATA.json')
 data_stations = JSON.parse(file)
 
+
 data_stations.length.times do |d|
 
   Station.create({
@@ -91,3 +92,4 @@ data_stations.length.times do |d|
                  })
                    end
 end
+Trivium.create(question: 'naber', options: ['nolsun', 'normol', 'gayet iyi', 'super'], answer: 'super')
