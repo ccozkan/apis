@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_12_19_111714) do
+ActiveRecord::Schema.define(version: 2020_03_06_195358) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -55,4 +55,28 @@ ActiveRecord::Schema.define(version: 2019_12_19_111714) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "station_pois", force: :cascade do |t|
+    t.string "title"
+    t.decimal "lat"
+    t.decimal "lon"
+    t.decimal "dist"
+    t.string "url"
+    t.integer "page_id"
+    t.string "tag"
+    t.text "summary"
+    t.bigint "station_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["station_id"], name: "index_station_pois_on_station_id"
+  end
+
+  create_table "stations", force: :cascade do |t|
+    t.decimal "lat"
+    t.decimal "lon"
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  add_foreign_key "station_pois", "stations"
 end
