@@ -22,4 +22,10 @@ Rails.application.routes.draw do
   resources :radio_stations, only: [:index, :show]
 
   get 'quotes/random'
+
+
+#  resources :stations, only: [:index, :show]
+  get 'station_pois/near'
+#  get 'stations/near'
+  resources :station_pois, only: [:index, :show]
 end
