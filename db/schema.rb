@@ -81,7 +81,8 @@ ActiveRecord::Schema.define(version: 2020_03_06_221612) do
   create_table "trivia", force: :cascade do |t|
     t.text "question"
     t.text "options"
-    t.string "answer"
+    t.integer "answer"
+    t.string "media"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

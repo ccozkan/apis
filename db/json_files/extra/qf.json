@@ -1,0 +1,458 @@
+[
+    {
+        "text_ori": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "text": "Kabiliyetin yüzde biri ilham, yüzde doksandokuzu emektir.",
+        "author": "Thomas Edison",
+        "author_ori": "Thomas Edison"
+    },
+    {
+        "text_ori": "You can observe a lot just by watching.",
+        "text": "Sadece izleyerek pek çok şey gözlemleyebilirsin.",
+        "author": "Yogi Berra",
+        "author_ori": "Yogi Berra"
+    },
+    {
+        "text_ori": "A house divided against itself cannot stand.",
+        "text": "Kendi içinde bölünen hane, ayakta duramaz.",
+        "author": "Abraham Lincoln",
+        "author_ori": "Abraham Lincoln"
+    },
+    {
+        "text_ori": "Difficulties increase the nearer we get to the goal.",
+        "text": "Amacımıza yaklaştkça, zorluklar artar.",
+        "author": "Johann Wolfgang von Goethe",
+        "author_ori": "Johann Wolfgang von Goethe"
+    },
+    {
+        "text_ori": "Fate is in your hands and no one elses",
+        "text": "Kader kendimizden başka kimsenin elinde değildir.",
+        "author": "Byron Pulsifer",
+        "author_ori": "Byron Pulsifer"
+    },
+    {
+        "text_ori": "Be the chief but never the lord.",
+        "text": "Şef ol, ama asla hükümdar olma.",
+        "author": "Lao Tzu",
+        "author_ori": "Lao Tzu"
+    },
+    {
+        "text_ori": "Nothing happens unless first we dream.",
+        "text": "Hayal kurmazsak hiçbir şey olmaz.",
+        "author": "Carl Sandburg",
+        "author_ori": "Carl Sandburg"
+    },
+    {
+        "text_ori": "Well begun is half done.",
+        "text": "İyi başlangıç işin yarısıdır.",
+        "author": "Aristotle",
+        "author_ori": "Aristotle"
+    },
+    {
+        "text_ori": "Life is a learning experience, only if you learn.",
+        "text": "Yaşam bir öğrenme tecrübesidir. Ama öğrenirsen...",
+        "author": "Yogi Berra",
+        "author_ori": "Yogi Berra"
+    },
+    {
+        "text_ori": "We can only learn to love by loving.",
+        "text": "Sadece severek sevmeyi öğrenebiliriz.",
+        "author": "Iris Murdoch",
+        "author_ori": "Iris Murdoch"
+    },
+    {
+        "text_ori": "Today is the tomorrow we worried about yesterday.",
+        "text": "Dünün endişelendiğimiz yarını, bugündür.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "It's easier to see the mistakes on someone else's paper.",
+        "text": "Başkasının kağıdındaki hataları görmek daha kolaydır.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Every man dies. Not every man really lives.",
+        "text": "Her insan ölür. Her insan gerçekten yaşamaz.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Trouble is only opportunity in work clothes.",
+        "text": "Sorunlar sadece iş kıyafeti giymiş fırsatlardır.",
+        "author": "Henry J. Kaiser",
+        "author_ori": "Henry J. Kaiser"
+    },
+    {
+        "text_ori": "A rolling stone gathers no moss.",
+        "text": "Yuvarlanan taş yosun tutmaz.",
+        "author": "Publilius Syrus",
+        "author_ori": "Publilius Syrus"
+    },
+    {
+        "text_ori": "Ideas are the beginning points of all fortunes.",
+        "text": "Fikirler, tüm servetlerin başlangıç noktalarıdır.",
+        "author": "Napoleon Hill",
+        "author_ori": "Napoleon Hill"
+    },
+    {
+        "text_ori": "Doing nothing is better than being busy doing nothing.",
+        "text": "Hiçbir şey yapmamak, hiçbir şeyi yapmayarak meşgul olmaktan daha iyidir.",
+        "author": "Lao Tzu",
+        "author_ori": "Lao Tzu"
+    },
+    {
+        "text_ori": "Trust yourself. You know more than you think you do.",
+        "text": "Kendine güven. Düşündüğünden daha çok şey biliyorsun.",
+        "author": "Benjamin Spock",
+        "author_ori": "Benjamin Spock"
+    },
+    {
+        "text_ori": "Bite off more than you can chew, then chew it.",
+        "text": "Çiğneyebileceğinden büyük parça ısır, sonra çiğne.",
+        "author": "Ella Williams",
+        "author_ori": "Ella Williams"
+    },
+    {
+        "text_ori": "One today is worth two tomorrows.",
+        "text": "Bir bugün, iki yarın eder.",
+        "author": "Benjamin Franklin",
+        "author_ori": "Benjamin Franklin"
+    },
+    {
+        "text_ori": "From small beginnings come great things.",
+        "text": "Ufak başlangıçlar muhteşem şeyler çıkarır.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Learning is a treasure that will follow its owner everywhere",
+        "text": "Öğrenmek sahibini heryerde takip eden bir hazinedir.",
+        "author": "Çin Atasözü",
+        "author_ori": "Çin Atasözü"
+    },
+    {
+        "text_ori": "Be as you wish to seem.",
+        "text": "Görünmek dilediğin gibi ol.",
+        "author": "Sokrates",
+        "author_ori": "Sokrates"
+    },
+    {
+        "text_ori": "The world is always in movement.",
+        "text": "Dünya herzaman hareket halindedir.",
+        "author": "V. Naipaul",
+        "author_ori": "V. Naipaul"
+    },
+    {
+        "text_ori": "Talk doesn't cook rice.",
+        "text": "Konuşmak pilavı pişirmez.",
+        "author": "Çin Atasözü",
+        "author_ori": "Çin Atasözü"
+    },
+    {
+        "text_ori": "He is able who thinks he is able.",
+        "text": "Yapabileceğini düşünen kişi, yapabilir.",
+        "author": "Buddha",
+        "author_ori": "Buddha"
+    },
+    {
+        "text_ori": "Learn from yesterday, live for today, hope for tomorrow.",
+        "text": "Dünden öğren, bugün için yaşa, yarın için umut et.",
+        "author": "Albert Einstein",
+        "author_ori": "Albert Einstein"
+    },
+    {
+        "text_ori": "Do, or do not. There is no try.",
+        "text": "Yap ya da yapma. Denemek diye bir şey yok.",
+        "author": "Yoda",
+        "author_ori": "Yoda"
+    },
+    {
+        "text_ori": "Think how hard physics would be if particles could think.",
+        "text": "Parçacıklar düşünebilseydi fiziğin ne kadar zor olabileceğini düşün.",
+        "author": "Murray Gell-Mann",
+        "author_ori": "Murray Gell-Mann"
+    },
+    {
+        "text_ori": "Love is the flower you've got to let grow.",
+        "text": "Aşk bir çiçektir. Büyümesine izin vermelisin.",
+        "author": "John Lennon",
+        "author_ori": "John Lennon"
+    },
+    {
+        "text_ori": "Don't wait. The time will never be just right.",
+        "text": "Bekleme. Zaman asla tam zamanı olmayacak.",
+        "author": "Napoleon Hill",
+        "author_ori": "Napoleon Hill"
+    },
+    {
+        "text_ori": "Time is the wisest counsellor of all.",
+        "text": "Zaman, danışmanların en akıllısıdır.",
+        "author": "Pericles",
+        "author_ori": "Pericles"
+    },
+    {
+        "text_ori": "Wisdom begins in wonder.",
+        "text": "Bilgelik merak etmekle başlar.",
+        "author": "Sokrates",
+        "author_ori": "Sokrates"
+    },
+    {
+        "text_ori": "When deeds speak, words are nothing.",
+        "text": "Eylemler konuşunca, kelimelerin anlamı yoktur.",
+        "author": "Afrika Atasözü",
+        "author_ori": "Afrika Atasözü"
+    },
+    {
+        "text_ori": "The years teach much which the days never know.",
+        "text": "Yıllar günlerin asla bilemeyeceği şeyleri öğretir.",
+        "author": "Ralph Emerson",
+        "author_ori": "Ralph Emerson"
+    },
+    {
+        "text_ori": "All know the way; few actually walk it.",
+        "text": "Herkes yolu bilir, birkaçı yürür.",
+        "author": "Bodhidharma",
+        "author_ori": "Bodhidharma"
+    },
+    {
+        "text_ori": "The two most powerful warriors are patience and time.",
+        "text": "En güçlü iki savaşcı, sabır ve zamandır.",
+        "author": "Leo Tolstoy",
+        "author_ori": "Leo Tolstoy"
+    },
+    {
+        "text_ori": "It takes both sunshine and rain to make a rainbow.",
+        "text": "Gökkuşağı için hem gün ışığı hem de yağmur gerekir.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "A beautiful thing is never perfect.",
+        "text": "Güzel olan asla mükemmel değildir.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Only do what your heart tells you.",
+        "text": "Sadece kalbini dediğini yap.",
+        "author": "Prenses Diana",
+        "author_ori": "Prenses Diana"
+    },
+    {
+        "text_ori": "Luck is what happens when preparation meets opportunity.",
+        "text": "Hazırlığın fırsatla karşılaşmasına şans denir.",
+        "author": "Seneca",
+        "author_ori": "Seneca"
+    },
+    {
+        "text_ori": "Every new day is another chance to change your life.",
+        "text": "Her gün hayatını değiştirmek için bir şanstır.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Smile, breathe, and go slowly.",
+        "text": "Gülümse, nefes al ve yavaş ilerle.",
+        "author": "Thich Nhat Hanh",
+        "author_ori": "Thich Nhat Hanh"
+    },
+    {
+        "text_ori": "No man was ever wise by chance.",
+        "text": "Kimse kazara alim olmamıştır.",
+        "author": "Seneca",
+        "author_ori": "Seneca"
+    },
+    {
+        "text_ori": "Do one thing every day that scares you.",
+        "text": "Her gün seni korkutan bir şeyi yap.",
+        "author": "Eleanor Roosevelt",
+        "author_ori": "Eleanor Roosevelt"
+    },
+    {
+        "text_ori": "Who looks outside, dreams; who looks inside, awakes.",
+        "text": "Dışarı bakan rüya görür, içeri bakan uyanır.",
+        "author": "Carl Jung",
+        "author_ori": "Carl Jung"
+    },
+    {
+        "text_ori": "The harder you fall, the higher you bounce.",
+        "text": "Ne kadar sert düşersen o kadar yukarı sekersin.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "The simplest things are often the truest.",
+        "text": "Çoğu zaman en basit şeyler, en doğrusudur.",
+        "author": "Richard Bach",
+        "author_ori": "Richard Bach"
+    },
+    {
+        "text_ori": "Everyone smiles in the same language.",
+        "text": "Herkes aynı dilde gülümser.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "If you can dream it, you can do it.",
+        "text": "Hayal edebiliyorsan, başarabilirsin.",
+        "author": "Walt Disney",
+        "author_ori": "Walt Disney"
+    },
+    {
+        "text_ori": "It is better to travel well than to arrive.",
+        "text": "Güzel seyahat, varıştan daha iyidir.",
+        "author": "Buddha",
+        "author_ori": "Buddha"
+    },
+    {
+        "text_ori": "You can't stop the waves, but you can learn to surf.",
+        "text": "Dalgaları durduramazsın, ama sörf yapmayı ögrenebilirsin.",
+        "author": "Jon Kabat-Zinn",
+        "author_ori": "Jon Kabat-Zinn"
+    },
+    {
+        "text_ori": "Reality leaves a lot to the imagination.",
+        "text": "Gerçek hayallere oldukça yer bırakır.",
+        "author": "John Lennon",
+        "author_ori": "John Lennon"
+    },
+    {
+        "text_ori": "You can do what's reasonable or you can decide what's possible.",
+        "text": "Makul olanı yapabilirsin ya da neyin mümkün olduğuna karar verebilirsin.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Wherever you go, go with all your heart.",
+        "text": "Nereye gidersen git, tüm kalbinle git.",
+        "author": "Konfüçyüs",
+        "author_ori": "Konfüçyüs"
+    },
+    {
+        "text_ori": "Rainbows apologize for angry skies.",
+        "text": "Gökkuşakları kızgın gökler için özür diler.",
+        "author": "Sylvia Voirol",
+        "author_ori": "Sylvia Voirol"
+    },
+    {
+        "text_ori": "Friendship isn't a big thing. It's a million little things.",
+        "text": "Arkadaşlık büyük bir şey değildir. Milyon tane ufak şeydir.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Time is the most valuable thing a man can spend.",
+        "text": "Zaman insanın harcayabileceği en değerli şeydir.",
+        "author": "Theophrastus",
+        "author_ori": "Theophrastus"
+    },
+    {
+        "text_ori": "Experience is simply the name we give our mistakes.",
+        "text": "Tecrübe, hatalarımıza verdiğimiz isimdir.",
+        "author": "Oscar Wilde",
+        "author_ori": "Oscar Wilde"
+    },
+    {
+        "text_ori": "A good plan today is better than a perfect plan tomorrow.",
+        "text": "Bugünün iyi planı, yarının mükemmel planından iyidir.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "If the shoe doesn't fit, must we change the foot?",
+        "text": "Ayakkabı olmuyorsa, ayağımızı mı değiştirmeliyiz?",
+        "author": "Gloria Steinem",
+        "author_ori": "Gloria Steinem"
+    },
+    {
+        "text_ori": "Each day provides its own gifts.",
+        "text": "Her gün kendi armağanlarını getirir.",
+        "author": "Marcus Aurelius",
+        "author_ori": "Marcus Aurelius"
+    },
+    {
+        "text_ori": "While we stop to think, we often miss our opportunity.",
+        "text": "Durmayı düşündüğümüz çoğu zaman fırsatı kaçırırız.",
+        "author": "Publilius Syrus",
+        "author_ori": "Publilius Syrus"
+    },
+    {
+        "text_ori": "Life isn't about finding yourself. Life is about creating yourself.",
+        "text": "Hayat kendimizi bulmak ile değil, kendimizi yaratmak ile ilgilidir.",
+        "author": "Bernard Shaw",
+        "author_ori": "Bernard Shaw"
+    },
+    {
+        "text_ori": "The more you know yourself, the more you forgive yourself.",
+        "text": "Kendini ne kadar daha tanırsan, o kadar çok affedersin.",
+        "author": "Konfüçyüs",
+        "author_ori": "Confucius"
+    },
+    {
+        "text_ori": "Don't be pushed by your problems; be led by your dreams.",
+        "text": "Sorunların tarafından itilme, hayallerin tarafından çekil.",
+        "author": "",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "Everything you can imagine is real.",
+        "text": "Hayal edebildiğin her şey gerçektir.",
+        "author": "Pablo Picasso",
+        "author_ori": "Pablo Picasso"
+    },
+    {
+        "text_ori": "Life is the flower for which love is the honey.",
+        "text": "Hayat balı sevenler için çiçektir.",
+        "author": "Victor Hugo",
+        "author_ori": "Victor Hugo"
+    },
+    {
+        "text_ori": "There is no way to happiness, happiness is the way.",
+        "author": "Thich Nhat Hanh",
+        "text": "Mutluluğa giden yol bir yoktur. Mutluluk yoldur.",
+        "author_ori": "Thich Nhat Hanh"
+    },
+    {
+        "text_ori": "The day always looks brighter from behind a smile.",
+        "author": "",
+        "text": "Gülümseyince günler daha ışıltılı olur",
+        "author_ori": ""
+    },
+    {
+        "text_ori": "He who talks more is sooner exhausted.",
+        "author": "Lao Tzu",
+        "text": "Fazla konuşan erken bitkin düşer.",
+        "author_ori": "Lao Tzu"
+    },
+    {
+        "text_ori": "Don't judge each day by the harvest you reap but by the seeds you plant.",
+        "author": "Robert Stevenson",
+        "text": "Günü elde ettiğin hasat ile değil, ektiğin tohuma göre değerlendir.",
+        "author_ori": "Robert Stevenson"
+    },
+    {
+        "text_ori": "When you come to the end of your rope, tie a knot and hang on.",
+        "text": "İpin sonuna geldiğinde, düğüm at ve tutun",
+        "author": "Franklin Roosevelt",
+        "author_ori": "Franklin Roosevelt"
+    },
+    {
+        "text_ori": "Success is getting what you want. Happiness is wanting what you get.",
+        "text": "Başarı istediğini almaktır. Mutluluk aldığını istemektir.",
+        "author": "Dale Carnegie",
+        "author_ori": "Dale Carnegie"
+    },
+    {
+        "text_ori": "If you want a thing done well, do it yourself.",
+        "author": "Napoleon Bonaparte",
+        "text": "Bir şeyin iyi yapılmasını istiyorsan, kendin yapmalısın.",
+        "author_ori": "Napoleon Bonaparte"
+    },
+    {
+        "text_ori": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+        "text": "Elde gelen kartlar her zaman adil olmaz. Ama gülümsemeli ve oyuna devam etmelisin.",
+        "author": "Tom Jackson",
+        "author_ori": "Tom Jackson"
+    }
+]

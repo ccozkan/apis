@@ -4,6 +4,7 @@ class CreateTrivia < ActiveRecord::Migration[6.0]
       t.text :question
       t.text :options, array: true
       t.string :answer
+      t.string :media
 
       t.timestamps
     end

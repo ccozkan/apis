@@ -1,0 +1,45 @@
+[
+        {
+                "media": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Synagogue_Etz_Hahaim_-_alternatively_Etz_Haim_%28Tree_of_Life%29%2C_circa_1700%2C_Izmir_%283439235934%29.jpg",
+                "question": "Bizans döneminden kalan İzmir'in en eski sinagogunun adı nedir?",
+                "options": ["Beth Israel", "Etz Hayim", "Neve Shalom", "Yanbol"],
+                "answer": 1,
+                "station_id": 1
+        },
+        {
+                "media": "https://tr.wikipedia.org/?curid=2117774#/media/Dosya:Izmir_Ethnography_Museum.jpg",
+                "question": "İzmir etnografya müzesinin bulunduğu bina, 1831'de ne amacı ile inşa edilmiştir?",
+                "options": ["konsolosluk", "okul", "valilik","hastane"],
+                "answer": 3
+        },
+        {
+                "media": "https://en.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark#/media/File:%C4%B0zmir_International_Fair_from_Kadifekale.JPG",
+                "question": "Kültürpark'ın fikir babası Suat Yurtkoru, yurtdışındaki hangi parktan esinlenmiştir? ",
+                "options": ["Hyde Park Londra", "Gorki Parkı Moskova", "Central Park NY"],
+                "answer": 1
+        },
+        {
+                "media": "https://tr.wikipedia.org/wiki/Tarih%C3%AE_Asans%C3%B6r#/media/Dosya:Asansor_From_Ground_Level_Izmir_Turkey.jpg",
+                "question": "1907'de tamamlanan Asansör'ün tuğlaları nereden özel olarak gelmiştir?",
+                "options": ["Bergama", "Kazablanka", "Roma", "Marsilya"],
+                "answer": 3
+        },
+        {
+                "media": "https://tr.wikipedia.org/?curid=1471156#/media/Dosya:Museo_archeologico_di_izmir,_veduta.JPG",
+                "question": "İzmir Arkeoloji Müzesi hangi yılda halka açılmıştır?",
+                "options": ["1907", "1927", "1947", "1967"],
+                "answer": 1
+        },
+        {
+                "media": "https://tr.wikipedia.org/?curid=2367354#/media/Dosya:A_brass_band_in_Izmir_preparing_for_Independence_Day_celebrations,_May_18,_2015.jpg",
+                "question": "Uşakizade Köşkü'nün bir diğer adı nedir?'",
+                "options": ["Büyük Köşk", "Mor Salkımlı Köşk", "Sarmaşık Köşk"],
+                "answer": 1
+        },
+        {
+                "media": "https://tr.wikipedia.org/wiki/Basmane_Gar%C4%B1#/media/Dosya:Basmane_Gar%C4%B1-%C4%B0zmir_-_panoramio.jpg",
+                "question": "Basmane Garı'nın aynı zamanda hangi yapının da mimarıdır?",
+                "options": ["Eiffel Kulesi", "Haydarpaşa Garı", "Bavarya Devlet Kütüphanesi"],
+                "answer": 0
+        }
+]

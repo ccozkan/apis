@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><playlist version="1" xmlns="http://xspf.org/ns/0/"><trackList>  <track>
+    <title>Açık Radyo</title>
+    <location>http://stream.34bit.net/ar64.mp3</location>
+  </track>
+  <track>
+    <title>Actual TV</title>
+    <location>http://blutv-beta.akamaized.net/atvhd/atvhd.smil/chunklist_b1628000_sltur.m3u8</location>
+  </track>
+  <track>
+    <title>AFN 360 Incirlik</title>
+    <location>http://playerservices.streamtheworld.com/m3u/AFNE_ICK.m3u</location>
+  </track>
+  <track>
+    <title>Akra FM</title>
+    <location>https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Alem FM</title>
+    <location>http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>ALTIN SARKILAR</title>
+    <location>http://37.247.98.8/listen.pls?sid=25</location>
+  </track>
+  <track>
+    <title>Anadolu Radyo</title>
+    <location>https://59cba4d34b678.streamlock.net/radyo/anadolu-radyo/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>ARABESK DAMAR FM</title>
+    <location>http://95.173.188.170:9306/</location>
+  </track>
+  <track>
+    <title>Arabesk FM</title>
+    <location>http://yayin.arabeskfm.biz:8042</location>
+  </track>
+  <track>
+    <title>Arabesk Radyo</title>
+    <location>http://dinle.arabeskradyo.biz:2011/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Baba Radyo</title>
+    <location>http://yayin.arabeskfm.biz:8042</location>
+  </track>
+  <track>
+    <title>Best Fm</title>
+    <location>http://46.20.7.126:80/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Best FM</title>
+    <location>http://46.20.7.125:80</location>
+  </track>
+  <track>
+    <title>Beyzade FM</title>
+    <location>http://sunucu.radyodinle.com:9900/;*.mp3</location>
+  </track>
+  <track>
+    <title>Bingöl FM</title>
+    <location>http://yayin1.canliyayin.org:8844/;*.mp3</location>
+  </track>
+  <track>
+    <title>Bodrum FM</title>
+    <location>http://nephelis.com:8000/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Borusan Klasik</title>
+    <location>http://provisioning.streamtheworld.com/pls/BORUSAN_KLASIKAAC.pls</location>
+  </track>
+  <track>
+    <title>Botan FM</title>
+    <location>http://yayin1.canliyayin.org:8026/;*.mp3</location>
+  </track>
+  <track>
+    <title>BRTK</title>
+    <location>http://sc.brtk.net:8000/</location>
+  </track>
+  <track>
+    <title>cazkolik</title>
+    <location>https://streams.radio.co/s2cf477bcd/listen</location>
+  </track>
+  <track>
+    <title>CNN Türk Radyo</title>
+    <location>https://soledge7.dogannet.tv/S2/HLS_LIVE/cnnradyo/128/prog_index.m3u8?key=7f81e09ba94c7ae27aaaff86b9d5df46&live=true&app=com.cnnturk</location>
+  </track>
+  <track>
+    <title>CNNTÜRK</title>
+    <location>http://radyo.dogannet.tv/cnnturk</location>
+  </track>
+  <track>
+    <title>Demokrat FM Eregli 92.4</title>
+    <location>http://yayin1.yayindakiler.com:3122/</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Caffe</title>
+    <location>http://channels.dinamo.fm/caffe-mp3</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Deep</title>
+    <location>http://channels.dinamo.fm/deep-mp3</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Discotheque</title>
+    <location>http://channels.dinamo.fm/discotheque-mp3</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Locodyno</title>
+    <location>http://channels.dinamo.fm/locodyno-mp3</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Sleep</title>
+    <location>http://channels.dinamo.fm/sleep-mp3</location>
+  </track>
+  <track>
+    <title>Dinamo.fm Smog</title>
+    <location>http://channels.dinamo.fm/smog-mp3</location>
+  </track>
+  <track>
+    <title>Diyanet Kur'an Radyo</title>
+    <location>https://content.nocvp.com/asset/7LzphJom/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Diyanet Radyo</title>
+    <location>https://content.nocvp.com/asset/7Lzp89e5/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Diyanet Risalet</title>
+    <location>http://5.44.154.13:8000/risaletradyo.aac</location>
+  </track>
+  <track>
+    <title>Dost</title>
+    <location>http://yayin1.yayindakiler.com:3156</location>
+  </track>
+  <track>
+    <title>Dream Türk Radyo</title>
+    <location>https://radyo.dogannet.tv/dreamturk?type=.mp3/;stream.mp3</location>
+  </track>
+  <track>
+    <title>EG Radyo</title>
+    <location>http://185.44.192.36:8006/listen.pls</location>
+  </track>
+  <track>
+    <title>Enderun FM</title>
+    <location>http://yayin2.canliyayin.org:7052/;*.mp3</location>
+  </track>
+  <track>
+    <title>Erkam Radyo</title>
+    <location>https://nocvp-usd.noccdn.net/asset/7G7oEaxS/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Fenomen Akustik</title>
+    <location>http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio</location>
+  </track>
+  <track>
+    <title>Fenomen FM</title>
+    <location>http://fenomen.listenfenomen.com/fenomen/128/icecast.audio</location>
+  </track>
+  <track>
+    <title>Future Generation FG 93.7</title>
+    <location>http://37.1.144.106:9001/</location>
+  </track>
+  <track>
+    <title>FutureGeneration</title>
+    <location>http://37.1.144.106:9001/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Gözyaşı FM</title>
+    <location>http://yayin1.canliyayin.org:8700/;*.mp3</location>
+  </track>
+  <track>
+    <title>Gri Balkon</title>
+    <location>https://falcon.shoutca.st/tunein/gribalkon.pls</location>
+  </track>
+  <track>
+    <title>Haber Turk Radyo</title>
+    <location>https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8</location>
+  </track>
+  <track>
+    <title>HAYATMIX</title>
+    <location>http://dinle.arabeskradyo.xyz:8042</location>
+  </track>
+  <track>
+    <title>Hedef Radyo</title>
+    <location>http://radyo.yayin.com.tr:4004/;*.mp3</location>
+  </track>
+  <track>
+    <title>Isimsiz FM - Hamburg</title>
+    <location>http://dinle.arabeskradyo.xyz:8042</location>
+  </track>
+  <track>
+    <title>Istabulun Sesi Radyosu</title>
+    <location>http://shoutcast.gostream.nl:8110/</location>
+  </track>
+  <track>
+    <title>ITU College Radio -Classical</title>
+    <location>http://160.75.86.29:8088/stream/5/</location>
+  </track>
+  <track>
+    <title>ITU College Radio -Jazz&Blues</title>
+    <location>http://160.75.86.29:8088/stream/3/</location>
+  </track>
+  <track>
+    <title>ITU College Radio -Rock</title>
+    <location>http://160.75.86.29:8088/stream/1/</location>
+  </track>
+  <track>
+    <title>ITU Jaz/Blues</title>
+    <location>http://160.75.86.29:8088/stream/3/</location>
+  </track>
+  <track>
+    <title>Joy FM</title>
+    <location>http://17703.live.streamtheworld.com:3690/JOY_FMAAC_SC</location>
+  </track>
+  <track>
+    <title>Joy Jazz</title>
+    <location>http://17733.live.streamtheworld.com/JOY_JAZZ_SC?/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Joy Türk</title>
+    <location>https://18463.live.streamtheworld.com/JOY_TURK_ITUNES.mp3?/;stream.mp3</location>
+  </track>
+  <track>
+    <title>JoyTurk Akustik</title>
+    <location>http://provisioning.streamtheworld.com/pls/JOYTURK_AKUSTIK.pls</location>
+  </track>
+  <track>
+    <title>JoyTurk Rock</title>
+    <location>http://17773.live.streamtheworld.com:3690/JOYTURK_ROCK_SC</location>
+  </track>
+  <track>
+    <title>Kafa Radyo</title>
+    <location>http://46.20.3.245/stream/510/</location>
+  </track>
+  <track>
+    <title>Kardelen FM Zonguldak</title>
+    <location>http://dinle.kardelenfm.com:2000/</location>
+  </track>
+  <track>
+    <title>Kolej FM</title>
+    <location>http://yayin2.yayindakiler.com:4130</location>
+  </track>
+  <track>
+    <title>Kral FM</title>
+    <location>http://46.20.3.204/</location>
+  </track>
+  <track>
+    <title>Kral FM</title>
+    <location>http://yayin.arabeskfm.biz:8042</location>
+  </track>
+  <track>
+    <title>Kral Pop</title>
+    <location>http://46.20.3.201/</location>
+  </track>
+  <track>
+    <title>Lounge FM 96</title>
+    <location>http://37.1.144.106:9003/;</location>
+  </track>
+  <track>
+    <title>Magic FM</title>
+    <location>http://yayin1.yayindakiler.com:3032/</location>
+  </track>
+  <track>
+    <title>MAMAS FM POP RADYOSU</title>
+    <location>http://www.mamasfm.com:4500/</location>
+  </track>
+  <track>
+    <title>Marmara FM</title>
+    <location>http://marmarafm.canliyayinda.com:8008</location>
+  </track>
+  <track>
+    <title>Max Fm 95.8 Maximum Music</title>
+    <location>http://live2.radyotvonline.com:8025/</location>
+  </track>
+  <track>
+    <title>MaxFM</title>
+    <location>http://live.radyotvonline.com:8090/;</location>
+  </track>
+  <track>
+    <title>Medya FM</title>
+    <location>http://live2.radyotvonline.com:9390/</location>
+  </track>
+  <track>
+    <title>MERCAN FM   101.5</title>
+    <location>http://yayin1.yayindakiler.com:3190//;stream.nsv&type=mp3</location>
+  </track>
+  <track>
+    <title>Mesaj FM</title>
+    <location>https://59cba4d34b678.streamlock.net/radyo/mesaj-fm/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Metro FM</title>
+    <location>https://17733.live.streamtheworld.com/METRO_FM128AAC.aac</location>
+  </track>
+  <track>
+    <title>MetroFM</title>
+    <location>https://18463.live.streamtheworld.com/METRO_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=784ccec3-d115-4b7d-aa39-ab91c53c12bd</location>
+  </track>
+  <track>
+    <title>MetroFM</title>
+    <location>http://18463.live.streamtheworld.com/METRO_FM.mp3</location>
+  </track>
+  <track>
+    <title>Mydonose TURK</title>
+    <location>https://17753.live.streamtheworld.com/DANSTURK.mp3</location>
+  </track>
+  <track>
+    <title>NTV Radyo</title>
+    <location>http://46.20.3.207/listen.pls</location>
+  </track>
+  <track>
+    <title>Ostim Radyo</title>
+    <location>http://yayin.asymedya.com:8079/listen.pls</location>
+  </track>
+  <track>
+    <title>Özel FM</title>
+    <location>http://85.95.248.115:8014</location>
+  </track>
+  <track>
+    <title>PAL FM 99.2 Istanbul</title>
+    <location>http://46.20.13.51:1230/;</location>
+  </track>
+  <track>
+    <title>PAL STATION</title>
+    <location>http://46.20.13.51:1240</location>
+  </track>
+  <track>
+    <title>PopRock FM</title>
+    <location>http://88.198.10.229:8065/stream</location>
+  </track>
+  <track>
+    <title>POWER  100 FM</title>
+    <location>https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Power Smooth Jazz</title>
+    <location>http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Power Türk</title>
+    <location>http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;</location>
+  </track>
+  <track>
+    <title>PowerTürk Efsane</title>
+    <location>http://powerturkefsane.listenpowerapp.com/powerturkefsane/mpeg/icecast.audio</location>
+  </track>
+  <track>
+    <title>Radio Antalya</title>
+    <location>https://my.radiolize.com/radio/8000/radio.mp3</location>
+  </track>
+  <track>
+    <title>Radio Line 99.1 Bursa</title>
+    <location>http://www.radioline.fm:8000/listen.pls</location>
+  </track>
+  <track>
+    <title>Radio Wanderlust</title>
+    <location>http://radyo.yayin.com.tr:5898</location>
+  </track>
+  <track>
+    <title>Radyo 7</title>
+    <location>http://46.20.3.250/;stream</location>
+  </track>
+  <track>
+    <title>Radyo A (Radyo Anadolu Üniversitesi)</title>
+    <location>http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3</location>
+  </track>
+  <track>
+    <title>Radyo Alaturka</title>
+    <location>http://stream.radyoalaturka.com.tr:9100/;stream.ogg</location>
+  </track>
+  <track>
+    <title>Radyo Ataşehir</title>
+    <location>http://98.142.98.120:9300/;</location>
+  </track>
+  <track>
+    <title>Radyo Babylon 99.4 FM</title>
+    <location>http://46.20.4.54/stream/212/;</location>
+  </track>
+  <track>
+    <title>Radyo D 104</title>
+    <location>http://radyo.dogannet.tv/radyod</location>
+  </track>
+  <track>
+    <title>Radyo Dejavu</title>
+    <location>http://radyodejavu.canliyayinda.com:8054</location>
+  </track>
+  <track>
+    <title>Radyo Eksen 96.2</title>
+    <location>http://eksenwmp.radyotvonline.com/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Erkan</title>
+    <location>http://sunucu2.radyolarburada.com:8095/</location>
+  </track>
+  <track>
+    <title>Radyo Fenomen</title>
+    <location>https://listen.radyofenomen.com/fenomen/256/icecast.audio</location>
+  </track>
+  <track>
+    <title>Radyo Gabile</title>
+    <location>http://radyo.gabile.com:2006/;stream.nsv</location>
+  </track>
+  <track>
+    <title>Radyo Gedik</title>
+    <location>http://radyo-t.gedik.edu.tr/stream.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Gül</title>
+    <location>http://yayin2.canliyayin.org:8866/;*.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Hayat</title>
+    <location>http://live4.radyotvonline.com:9450/</location>
+  </track>
+  <track>
+    <title>Radyo İhya</title>
+    <location>http://radyo.radyoihya.com:2727/;*.mp3</location>
+  </track>
+  <track>
+    <title>Radyo ILEF Ankara</title>
+    <location>http://radyo.cc.ankara.edu.tr:8089/listen.pls</location>
+  </track>
+  <track>
+    <title>Radyo İslam</title>
+    <location>http://yayin.radyoislam.com:7676/;*.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Kilim</title>
+    <location>http://sunucu.radyodinle.com:2727</location>
+  </track>
+  <track>
+    <title>Radyo Kur'an</title>
+    <location>http://yayin.liderhost.net:8555/;*.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Mega Fatsa</title>
+    <location>http://sunucu.radyodinle.com:9944/;.mp3</location>
+  </track>
+  <track>
+    <title>Radyo Metropol</title>
+    <location>http://radyometropol.radyolarburada.com:5544/</location>
+  </track>
+  <track>
+    <title>Radyo MODyAn</title>
+    <location>http://stream.radio.co/s55d598f42/listen</location>
+  </track>
+  <track>
+    <title>Radyo Munzur 97.7</title>
+    <location>http://yayin1.yayindakiler.com:3002/</location>
+  </track>
+  <track>
+    <title>Radyo ODTU</title>
+    <location>http://stream.radyoodtu.com.tr/;</location>
+  </track>
+  <track>
+    <title>Radyo Spor</title>
+    <location>http://46.20.4.5:8170</location>
+  </track>
+  <track>
+    <title>Radyo Trafik 104.2 Ankara</title>
+    <location>http://live2.radyotvonline.com:8000/</location>
+  </track>
+  <track>
+    <title>Radyo Vatan Türkü</title>
+    <location>http://95.0.173.195:9000/turku</location>
+  </track>
+  <track>
+    <title>Radyo Voyage</title>
+    <location>http://voyagefms.radyotvonline.com:80/dyg/voyage64/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Radyo Voyage</title>
+    <location>http://voyagewmp.radyotvonline.com/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Radyo-Damar</title>
+    <location>http://dinle.arabeskradyo.xyz:8042</location>
+  </track>
+  <track>
+    <title>Ribat FM</title>
+    <location>http://yayin1.canliyayin.org:7010/;*.mp3</location>
+  </track>
+  <track>
+    <title>RS FM</title>
+    <location>http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3</location>
+  </track>
+  <track>
+    <title>Semerkand Radyo</title>
+    <location>http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8</location>
+  </track>
+  <track>
+    <title>Semerkand TV</title>
+    <location>http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8</location>
+  </track>
+  <track>
+    <title>Serhad FM</title>
+    <location>http://yayin2.canliyayin.org:9372/</location>
+  </track>
+  <track>
+    <title>Show Radyo</title>
+    <location>http://46.20.3.229/;stream.nsv</location>
+  </track>
+  <track>
+    <title>Sky Radyo</title>
+    <location>http://skyradyo.org:8300/</location>
+  </track>
+  <track>
+    <title>Slow FM</title>
+    <location>http://radyo.slowfm.biz:8090</location>
+  </track>
+  <track>
+    <title>Slow Radyo</title>
+    <location>http://yayindaslowradyo.net:5050/;stream.nsv</location>
+  </track>
+  <track>
+    <title>SlowFM</title>
+    <location>http://radyo.slowfm.biz:8090/</location>
+  </track>
+  <track>
+    <title>SlowTime</title>
+    <location>http://46.20.7.103:8030/;</location>
+  </track>
+  <track>
+    <title>Süper FM</title>
+    <location>http://17703.live.streamtheworld.com/SUPER_FMAAC</location>
+  </track>
+  <track>
+    <title>Süper Fm</title>
+    <location>https://18463.live.streamtheworld.com/SUPER_FM_ITUNES.mp3?/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Süper Show Radyo 97.3 Ankara</title>
+    <location>http://yayin.netyayin.net:6065/;</location>
+  </track>
+  <track>
+    <title>Taksim FM</title>
+    <location>http://cast1.taksim.fm:8000/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Taksim FM Arabesk</title>
+    <location>http://cast1.taksim.fm:8008/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Taksim FM Pop</title>
+    <location>http://cast1.taksim.fm:8014/;stream.mp3</location>
+  </track>
+  <track>
+    <title>Taksim FM Slow</title>
+    <location>http://cast1.taksim.fm:8002/;stream.mp3</location>
+  </track>
+  <track>
+    <title>TRT Arabic TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1250_av-b.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Children TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_720p_av-b.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Children TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250p_av-p.m3u8</location>
+  </track>
+  <track>
+    <title>TRT FM</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Music TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250_av-b.m3u8</location>
+  </track>
+  <track>
+    <title>Trt Nağme</title>
+    <location>https://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT One TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Radyo 1</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Radyo 3</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Radyo Haber</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT Türkü</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8</location>
+  </track>
+  <track>
+    <title>TRT World TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8</location>
+  </track>
+  <track>
+    <title>TRT World TV</title>
+    <location>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8</location>
+  </track>
+  <track>
+    <title>Türkiyem FM</title>
+    <location>http://turkiyemfm.canliyayinda.com:8032/</location>
+  </track>
+  <track>
+    <title>Tutku FM</title>
+    <location>http://yayin2.yayindakiler.com:4038/</location>
+  </track>
+  <track>
+    <title>Uludağ FM</title>
+    <location>http://sr1.netmedya.org:9170/</location>
+  </track>
+  <track>
+    <title>Virgin Radio</title>
+    <location>https://17753.live.streamtheworld.com/VIRGIN_RADIOAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=751a8c00-21cb-4ae6-ce1b-4c52591bba58</location>
+  </track>
+  <track>
+    <title>Virgin Radio Türkiye</title>
+    <location>http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls</location>
+  </track>
+  <track>
+    <title>Worlds 08 Turkish</title>
+    <location>http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8</location>
+  </track>
+  <track>
+    <title>Worlds 08 Turquia </title>
+    <location>http://17773.live.streamtheworld.com:3690/JOYTURK_AKUSTIK_SC</location>
+  </track>
+  <track>
+    <title>Yön Radyo</title>
+    <location>http://yonradyo.radyolarburada.com:8020/</location>
+  </track>
+</trackList></playlist>

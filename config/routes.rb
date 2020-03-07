@@ -23,6 +23,7 @@ Rails.application.routes.draw do
 
   get 'quotes/random'
   get 'trivia/random'
+  get 'station_pois/random'
 
 
 #  resources :stations, only: [:index, :show]

@@ -6,13 +6,13 @@ I provide some API's for some of my projects. They are online at [https://apis.z
 
 The list is
 
--   [antennas](#orgbf83c04)
--   [beverages](#org36220fc)
--   [radio stations](#orgff668aa)
--   [quotes](#org22dc682)
+-   [antennas](#orge3e1fd8)
+-   [beverages](#org2e39cdd)
+-   [radio stations](#org8c9c0c6)
+-   [quotes](#orgda2a358)
 
 
-<a id="orgbf83c04"></a>
+<a id="orge3e1fd8"></a>
 
 ## antennas
 
@@ -29,7 +29,7 @@ API service (GET) is online at <http://apis.zavodx.com/antennas>
 `/antennas/city_band?c=IZMIR&b=UHF` returns the related antennas in related city
 
 
-<a id="org36220fc"></a>
+<a id="org2e39cdd"></a>
 
 ## beverages
 
@@ -46,7 +46,7 @@ API service (GET) is online at <http://apis.zavodx.com/beverages>
 `/beverages/search?q=moj` wild card search, returns beverages those contain 'moj' in their name (like mojito!)
 
 
-<a id="orgff668aa"></a>
+<a id="org8c9c0c6"></a>
 
 ## radio stations
 
@@ -67,13 +67,13 @@ API service (GET) is online at <http://apis.zavodx.com/radio_stations>
 `/radio_stations/search?q=slowti` wildcard search
 
 
-<a id="org22dc682"></a>
+<a id="orgda2a358"></a>
 
 ## quotes
 
-Turkish translations of quotes from [this database](https://github.com/dwyl/quotes/blob/master/quotes.json). 
+It returns Turkish translations of quotes and authors from [this database](https://github.com/dwyl/quotes/blob/master/quotes.json). 
 
-API service (GET) is online at <http://apis.zavodx.com/quotes/random>
+API service (GET) is online at <http://apis.zavodx.com/quotes>
 
-`/random` returns a random quote
+`/quotes/random` returns a random quote
 

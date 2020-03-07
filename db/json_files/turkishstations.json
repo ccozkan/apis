@@ -1,0 +1,634 @@
+[
+ {
+   "name" : "Açık Radyo",
+    "url": "http://stream.34bit.net/ar64.mp3"
+  },
+  {
+    "name" : "Actual TV",
+    "url": "http://blutv-beta.akamaized.net/atvhd/atvhd.smil/chunklist_b1628000_sltur.m3u8"
+  },
+  {
+    "name" : "AFN 360 Incirlik",
+    "url": "http://playerservices.streamtheworld.com/m3u/AFNE_ICK.m3u"
+  },
+  {
+    "name" : "Akra FM",
+    "url": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
+  },
+  {
+    "name" : "Alem FM",
+    "url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+  },
+  {
+    "name" : "ALTIN SARKILAR",
+    "url": "http://37.247.98.8/listen.pls?sid=25"
+  },
+  {
+    "name" : "Anadolu Radyo",
+    "url": "https://59cba4d34b678.streamlock.net/radyo/anadolu-radyo/playlist.m3u8"
+  },
+  {
+    "name" : "ARABESK DAMAR FM",
+    "url": "http://95.173.188.170:9306/"
+  },
+  {
+    "name" : "Arabesk FM",
+    "url": "http://yayin.arabeskfm.biz:8042"
+  },
+  {
+    "name" : "Arabesk Radyo",
+    "url": "http://dinle.arabeskradyo.biz:2011/;stream.mp3"
+  },
+  {
+    "name" : "Baba Radyo",
+    "url": "http://yayin.arabeskfm.biz:8042"
+  },
+  {
+    "name" : "Best Fm",
+    "url": "http://46.20.7.126:80/;stream.mp3"
+  },
+  {
+    "name" : "Best FM",
+    "url": "http://46.20.7.125:80"
+  },
+  {
+    "name" : "Beyzade FM",
+    "url": "http://sunucu.radyodinle.com:9900/;*.mp3"
+  },
+  {
+    "name" : "Bingöl FM",
+    "url": "http://yayin1.canliyayin.org:8844/;*.mp3"
+  },
+  {
+    "name" : "Bodrum FM",
+    "url": "http://nephelis.com:8000/;stream.mp3"
+  },
+  {
+    "name" : "Borusan Klasik",
+    "url": "http://provisioning.streamtheworld.com/pls/BORUSAN_KLASIKAAC.pls"
+  },
+  {
+    "name" : "Botan FM",
+    "url": "http://yayin1.canliyayin.org:8026/;*.mp3"
+  },
+  {
+    "name" : "BRTK",
+    "url": "http://sc.brtk.net:8000/"
+  },
+  {
+    "name" : "cazkolik",
+    "url": "https://streams.radio.co/s2cf477bcd/listen"
+  },
+  {
+    "name" : "CNN Türk Radyo",
+    "url": "https://soledge7.dogannet.tv/S2/HLS_LIVE/cnnradyo/128/prog_index.m3u8?key=7f81e09ba94c7ae27aaaff86b9d5df46&live=true&app=com.cnnturk"
+  },
+  {
+    "name" : "CNNTÜRK",
+    "url": "http://radyo.dogannet.tv/cnnturk"
+  },
+  {
+    "name" : "Demokrat FM Eregli 92.4",
+    "url": "http://yayin1.yayindakiler.com:3122/"
+  },
+  {
+    "name" : "Dinamo.fm Caffe",
+    "url": "http://channels.dinamo.fm/caffe-mp3"
+  },
+  {
+    "name" : "Dinamo.fm Deep",
+    "url": "http://channels.dinamo.fm/deep-mp3"
+  },
+  {
+    "name" : "Dinamo.fm Discotheque",
+    "url": "http://channels.dinamo.fm/discotheque-mp3"
+  },
+  {
+    "name" : "Dinamo.fm Locodyno",
+    "url": "http://channels.dinamo.fm/locodyno-mp3"
+  },
+  {
+    "name" : "Dinamo.fm Sleep",
+    "url": "http://channels.dinamo.fm/sleep-mp3"
+  },
+  {
+    "name" : "Dinamo.fm Smog",
+    "url": "http://channels.dinamo.fm/smog-mp3"
+  },
+  {
+    "name" : "Diyanet Kur'an Radyo",
+    "url": "https://content.nocvp.com/asset/7LzphJom/playlist.m3u8"
+  },
+  {
+    "name" : "Diyanet Radyo",
+    "url": "https://content.nocvp.com/asset/7Lzp89e5/playlist.m3u8"
+  },
+  {
+    "name" : "Diyanet Risalet",
+    "url": "http://5.44.154.13:8000/risaletradyo.aac"
+  },
+  {
+    "name" : "Dost",
+    "url": "http://yayin1.yayindakiler.com:3156"
+  },
+  {
+    "name" : "Dream Türk Radyo",
+    "url": "https://radyo.dogannet.tv/dreamturk?type=.mp3/;stream.mp3"
+  },
+  {
+    "name" : "EG Radyo",
+    "url": "http://185.44.192.36:8006/listen.pls"
+  },
+  {
+    "name" : "Enderun FM",
+    "url": "http://yayin2.canliyayin.org:7052/;*.mp3"
+  },
+  {
+    "name" : "Erkam Radyo",
+    "url": "https://nocvp-usd.noccdn.net/asset/7G7oEaxS/playlist.m3u8"
+  },
+  {
+    "name" : "Fenomen Akustik",
+    "url": "http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio"
+  },
+  {
+    "name" : "Fenomen FM",
+    "url": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio"
+  },
+  {
+    "name" : "Future Generation FG 93.7",
+    "url": "http://37.1.144.106:9001/"
+  },
+  {
+    "name" : "FutureGeneration",
+    "url": "http://37.1.144.106:9001/;stream.mp3"
+  },
+  {
+    "name" : "Gözyaşı FM",
+    "url": "http://yayin1.canliyayin.org:8700/;*.mp3"
+  },
+  {
+    "name" : "Gri Balkon",
+    "url": "https://falcon.shoutca.st/tunein/gribalkon.pls"
+  },
+  {
+    "name" : "Haber Turk Radyo",
+    "url": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8"
+  },
+  {
+    "name" : "HAYATMIX",
+    "url": "http://dinle.arabeskradyo.xyz:8042"
+  },
+  {
+    "name" : "Hedef Radyo",
+    "url": "http://radyo.yayin.com.tr:4004/;*.mp3"
+  },
+  {
+    "name" : "Isimsiz FM - Hamburg",
+    "url": "http://dinle.arabeskradyo.xyz:8042"
+  },
+  {
+    "name" : "Istabulun Sesi Radyosu",
+    "url": "http://shoutcast.gostream.nl:8110/"
+  },
+  {
+    "name" : "ITU College Radio -Classical",
+    "url": "http://160.75.86.29:8088/stream/5/"
+  },
+  {
+    "name" : "ITU College Radio -Jazz&Blues",
+    "url": "http://160.75.86.29:8088/stream/3/"
+  },
+  {
+    "name" : "ITU College Radio -Rock",
+    "url": "http://160.75.86.29:8088/stream/1/"
+  },
+  {
+    "name" : "ITU Jaz/Blues",
+    "url": "http://160.75.86.29:8088/stream/3/"
+  },
+  {
+    "name" : "Joy FM",
+    "url": "http://17703.live.streamtheworld.com:3690/JOY_FMAAC_SC"
+  },
+  {
+    "name" : "Joy Jazz",
+    "url": "http://17733.live.streamtheworld.com/JOY_JAZZ_SC?/;stream.mp3"
+  },
+  {
+    "name" : "Joy Türk",
+    "url": "https://18463.live.streamtheworld.com/JOY_TURK_ITUNES.mp3?/;stream.mp3"
+  },
+  {
+    "name" : "JoyTurk Akustik",
+    "url": "http://provisioning.streamtheworld.com/pls/JOYTURK_AKUSTIK.pls"
+  },
+  {
+    "name" : "JoyTurk Rock",
+    "url": "http://17773.live.streamtheworld.com:3690/JOYTURK_ROCK_SC"
+  },
+  {
+    "name" : "Kafa Radyo",
+    "url": "http://46.20.3.245/stream/510/"
+  },
+  {
+    "name" : "Kardelen FM Zonguldak",
+    "url": "http://dinle.kardelenfm.com:2000/"
+  },
+  {
+    "name" : "Kolej FM",
+    "url": "http://yayin2.yayindakiler.com:4130"
+  },
+  {
+    "name" : "Kral FM",
+    "url": "http://46.20.3.204/"
+  },
+  {
+    "name" : "Kral FM",
+    "url": "http://yayin.arabeskfm.biz:8042"
+  },
+  {
+    "name" : "Kral Pop",
+    "url": "http://46.20.3.201/"
+  },
+  {
+    "name" : "Lounge FM 96",
+    "url": "http://37.1.144.106:9003/;"
+  },
+  {
+    "name" : "Magic FM",
+    "url": "http://yayin1.yayindakiler.com:3032/"
+  },
+  {
+    "name" : "MAMAS FM POP RADYOSU",
+    "url": "http://www.mamasfm.com:4500/"
+  },
+  {
+    "name" : "Marmara FM",
+    "url": "http://marmarafm.canliyayinda.com:8008"
+  },
+  {
+    "name" : "Max Fm 95.8 Maximum Music",
+    "url": "http://live2.radyotvonline.com:8025/"
+  },
+  {
+    "name" : "MaxFM",
+    "url": "http://live.radyotvonline.com:8090/;"
+  },
+  {
+    "name" : "Medya FM",
+    "url": "http://live2.radyotvonline.com:9390/"
+  },
+  {
+    "name" : "MERCAN FM   101.5",
+    "url": "http://yayin1.yayindakiler.com:3190//;stream.nsv&type=mp3"
+  },
+  {
+    "name" : "Mesaj FM",
+    "url": "https://59cba4d34b678.streamlock.net/radyo/mesaj-fm/playlist.m3u8"
+  },
+  {
+    "name" : "Metro FM",
+    "url": "https://17733.live.streamtheworld.com/METRO_FM128AAC.aac"
+  },
+  {
+    "name" : "MetroFM",
+    "url": "https://18463.live.streamtheworld.com/METRO_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=784ccec3-d115-4b7d-aa39-ab91c53c12bd"
+  },
+  {
+    "name" : "MetroFM",
+    "url": "http://18463.live.streamtheworld.com/METRO_FM.mp3"
+  },
+  {
+    "name" : "Mydonose TURK",
+    "url": "https://17753.live.streamtheworld.com/DANSTURK.mp3"
+  },
+  {
+    "name" : "NTV Radyo",
+    "url": "http://46.20.3.207/listen.pls"
+  },
+  {
+    "name" : "Ostim Radyo",
+    "url": "http://yayin.asymedya.com:8079/listen.pls"
+  },
+  {
+    "name" : "Özel FM",
+    "url": "http://85.95.248.115:8014"
+  },
+  {
+    "name" : "PAL FM 99.2 Istanbul",
+    "url": "http://46.20.13.51:1230/;"
+  },
+  {
+    "name" : "PAL STATION",
+    "url": "http://46.20.13.51:1240"
+  },
+  {
+    "name" : "PopRock FM",
+    "url": "http://88.198.10.229:8065/stream"
+  },
+  {
+    "name" : "POWER  100 FM",
+    "url": "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
+  },
+  {
+    "name" : "Power Smooth Jazz",
+    "url": "http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8"
+  },
+  {
+    "name" : "Power Türk",
+    "url": "http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;"
+  },
+  {
+    "name" : "PowerTürk Efsane",
+    "url": "http://powerturkefsane.listenpowerapp.com/powerturkefsane/mpeg/icecast.audio"
+  },
+  {
+    "name" : "Radio Antalya",
+    "url": "https://my.radiolize.com/radio/8000/radio.mp3"
+  },
+  {
+    "name" : "Radio Line 99.1 Bursa",
+    "url": "http://www.radioline.fm:8000/listen.pls"
+  },
+  {
+    "name" : "Radio Wanderlust",
+    "url": "http://radyo.yayin.com.tr:5898"
+  },
+  {
+    "name" : "Radyo 7",
+    "url": "http://46.20.3.250/;stream"
+  },
+  {
+    "name" : "Radyo A (Radyo Anadolu Üniversitesi)",
+    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+  },
+  {
+    "name" : "Radyo Alaturka",
+    "url": "http://stream.radyoalaturka.com.tr:9100/;stream.ogg"
+  },
+  {
+    "name" : "Radyo Ataşehir",
+    "url": "http://98.142.98.120:9300/;"
+  },
+  {
+    "name" : "Radyo Babylon 99.4 FM",
+    "url": "http://46.20.4.54/stream/212/;"
+  },
+  {
+    "name" : "Radyo D 104",
+    "url": "http://radyo.dogannet.tv/radyod"
+  },
+  {
+    "name" : "Radyo Dejavu",
+    "url": "http://radyodejavu.canliyayinda.com:8054"
+  },
+  {
+    "name" : "Radyo Eksen 96.2",
+    "url": "http://eksenwmp.radyotvonline.com/;stream.mp3"
+  },
+  {
+    "name" : "Radyo Erkan",
+    "url": "http://sunucu2.radyolarburada.com:8095/"
+  },
+  {
+    "name" : "Radyo Fenomen",
+    "url": "https://listen.radyofenomen.com/fenomen/256/icecast.audio"
+  },
+  {
+    "name" : "Radyo Gabile",
+    "url": "http://radyo.gabile.com:2006/;stream.nsv"
+  },
+  {
+    "name" : "Radyo Gedik",
+    "url": "http://radyo-t.gedik.edu.tr/stream.mp3"
+  },
+  {
+    "name" : "Radyo Gül",
+    "url": "http://yayin2.canliyayin.org:8866/;*.mp3"
+  },
+  {
+    "name" : "Radyo Hayat",
+    "url": "http://live4.radyotvonline.com:9450/"
+  },
+  {
+    "name" : "Radyo İhya",
+    "url": "http://radyo.radyoihya.com:2727/;*.mp3"
+  },
+  {
+    "name" : "Radyo ILEF Ankara",
+    "url": "http://radyo.cc.ankara.edu.tr:8089/listen.pls"
+  },
+  {
+    "name" : "Radyo İslam",
+    "url": "http://yayin.radyoislam.com:7676/;*.mp3"
+  },
+  {
+    "name" : "Radyo Kilim",
+    "url": "http://sunucu.radyodinle.com:2727"
+  },
+  {
+    "name" : "Radyo Kur'an",
+    "url": "http://yayin.liderhost.net:8555/;*.mp3"
+  },
+  {
+    "name" : "Radyo Mega Fatsa",
+    "url": "http://sunucu.radyodinle.com:9944/;.mp3"
+  },
+  {
+    "name" : "Radyo Metropol",
+    "url": "http://radyometropol.radyolarburada.com:5544/"
+  },
+  {
+    "name" : "Radyo MODyAn",
+    "url": "http://stream.radio.co/s55d598f42/listen"
+  },
+  {
+    "name" : "Radyo Munzur 97.7",
+    "url": "http://yayin1.yayindakiler.com:3002/"
+  },
+  {
+    "name" : "Radyo ODTU",
+    "url": "http://stream.radyoodtu.com.tr/;"
+  },
+  {
+    "name" : "Radyo Spor",
+    "url": "http://46.20.4.5:8170"
+  },
+  {
+    "name" : "Radyo Trafik 104.2 Ankara",
+    "url": "http://live2.radyotvonline.com:8000/"
+  },
+  {
+    "name" : "Radyo Vatan Türkü",
+    "url": "http://95.0.173.195:9000/turku"
+  },
+  {
+    "name" : "Radyo Voyage",
+    "url": "http://voyagefms.radyotvonline.com:80/dyg/voyage64/playlist.m3u8"
+  },
+  {
+    "name" : "Radyo Voyage",
+    "url": "http://voyagewmp.radyotvonline.com/;stream.mp3"
+  },
+  {
+    "name" : "Radyo-Damar",
+    "url": "http://dinle.arabeskradyo.xyz:8042"
+  },
+  {
+    "name" : "Ribat FM",
+    "url": "http://yayin1.canliyayin.org:7010/;*.mp3"
+  },
+  {
+    "name" : "RS FM",
+    "url": "http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3"
+  },
+  {
+    "name" : "Semerkand Radyo",
+    "url": "http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8"
+  },
+  {
+    "name" : "Semerkand TV",
+    "url": "http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8"
+  },
+  {
+    "name" : "Serhad FM",
+    "url": "http://yayin2.canliyayin.org:9372/"
+  },
+  {
+    "name" : "Show Radyo",
+    "url": "http://46.20.3.229/;stream.nsv"
+  },
+  {
+    "name" : "Sky Radyo",
+    "url": "http://skyradyo.org:8300/"
+  },
+  {
+    "name" : "Slow FM",
+    "url": "http://radyo.slowfm.biz:8090"
+  },
+  {
+    "name" : "Slow Radyo",
+    "url": "http://yayindaslowradyo.net:5050/;stream.nsv"
+  },
+  {
+    "name" : "SlowFM",
+    "url": "http://radyo.slowfm.biz:8090/"
+  },
+  {
+    "name" : "SlowTime",
+    "url": "http://46.20.7.103:8030/;"
+  },
+  {
+    "name" : "Süper FM",
+    "url": "http://17703.live.streamtheworld.com/SUPER_FMAAC"
+  },
+  {
+    "name" : "Süper Fm",
+    "url": "https://18463.live.streamtheworld.com/SUPER_FM_ITUNES.mp3?/;stream.mp3"
+  },
+  {
+    "name" : "Süper Show Radyo 97.3 Ankara",
+    "url": "http://yayin.netyayin.net:6065/;"
+  },
+  {
+    "name" : "Taksim FM",
+    "url": "http://cast1.taksim.fm:8000/;stream.mp3"
+  },
+  {
+    "name" : "Taksim FM Arabesk",
+    "url": "http://cast1.taksim.fm:8008/;stream.mp3"
+  },
+  {
+    "name" : "Taksim FM Pop",
+    "url": "http://cast1.taksim.fm:8014/;stream.mp3"
+  },
+  {
+    "name" : "Taksim FM Slow",
+    "url": "http://cast1.taksim.fm:8002/;stream.mp3"
+  },
+  {
+    "name" : "TRT Arabic TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1250_av-b.m3u8"
+  },
+  {
+    "name" : "TRT Children TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_720p_av-b.m3u8"
+  },
+  {
+    "name" : "TRT Children TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250p_av-p.m3u8"
+  },
+  {
+    "name" : "TRT FM",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8"
+  },
+  {
+    "name" : "TRT Music TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250_av-b.m3u8"
+  },
+  {
+    "name" : "Trt Nağme",
+    "url": "https://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8"
+  },
+  {
+    "name" : "TRT One TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8"
+  },
+  {
+    "name" : "TRT Radyo 1",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8"
+  },
+  {
+    "name" : "TRT Radyo 3",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8"
+  },
+  {
+    "name" : "TRT Radyo Haber",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8"
+  },
+  {
+    "name" : "TRT Türkü",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8"
+  },
+  {
+    "name" : "TRT World TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8"
+  },
+  {
+    "name" : "TRT World TV",
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8"
+  },
+  {
+    "name" : "Türkiyem FM",
+    "url": "http://turkiyemfm.canliyayinda.com:8032/"
+  },
+  {
+    "name" : "Tutku FM",
+    "url": "http://yayin2.yayindakiler.com:4038/"
+  },
+  {
+    "name" : "Uludağ FM",
+    "url": "http://sr1.netmedya.org:9170/"
+  },
+  {
+    "name" : "Virgin Radio",
+    "url": "https://17753.live.streamtheworld.com/VIRGIN_RADIOAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=751a8c00-21cb-4ae6-ce1b-4c52591bba58"
+  },
+  {
+    "name" : "Virgin Radio Türkiye",
+    "url": "http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls"
+  },
+  {
+    "name" : "Worlds 08 Turkish",
+    "url": "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8"
+  },
+  {
+    "name" : "Worlds 08 Turquia ",
+    "url": "http://17773.live.streamtheworld.com:3690/JOYTURK_AKUSTIK_SC"
+  },
+  {
+    "name" : "Yön Radyo",
+    "url": "http://yonradyo.radyolarburada.com:8020/"
+  }
+  ]

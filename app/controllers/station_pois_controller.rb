@@ -10,8 +10,13 @@ class StationPoisController < ApplicationController
   end
 
   def near
-    station = StationPoi.where(station_id:  params[:q])
-    render json: { status: 1, data: station }
+    station_poi = StationPoi.where(station_id:  params[:q])
+    render json: { status: 1, data: station_poi }
+  end
+
+  def random
+    station_poi = StationPoi.find((StationPoi.all.size * rand + 1).floor)
+    render json: { status: 1, data: station_poi }
   end
 
 end

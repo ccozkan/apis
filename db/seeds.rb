@@ -38,7 +38,6 @@ file = File.read('db/json_files/BEVERAGES.json')
 data = JSON.parse(file)
 
 data.length.times do |d|
-
   Beverage.create({
                     name: data[d]['name'].upcase,
                     glass: data[d]['glass'],
@@ -54,26 +53,31 @@ file = File.read('db/json_files/turkishstations.json')
 data = JSON.parse(file)
 
 data.length.times do |d|
-
   RadioStation.create({
-
-#                    name: data[d]['name'].upcase.gsub(),
 
                     name: data[d]['name'].upcase.gsub('Ç','C').gsub('Ğ','G').gsub('İ','I').gsub('Ö','O').gsub('Ş','S').gsub('Ü','U').gsub('-','').gsub('1','').gsub('2','').gsub('3','').gsub('4','').gsub('5','').gsub('6','').gsub('7','').gsub('8','').gsub('9','').gsub('0','').gsub('.',''),
                     url: data[d]['url']
-#                    genre: data[d]['genre'],
-#                    country: data[d]['country']
                   })
 end
 
+
+file = File.read('db/json_files/QUESTIONS.json')
+trivia = JSON.parse(file)
+
+trivia.length.times do |d|
+  Trivium.create({
+    question: trivia[d]["question"],
+    options: trivia[d]["options"],
+    answer: trivia[d]["answer"],
+    media: trivia[d]["media"]
+  })
+end
 
 
 file = File.read('db/json_files/DATA.json')
 data_stations = JSON.parse(file)
 
-
 data_stations.length.times do |d|
-
   Station.create({
                    lat: data_stations[d]['lat'],
                    lon: data_stations[d]['lon'],
@@ -83,6 +87,7 @@ data_stations.length.times do |d|
                      StationPoi.create({
                                         lat: data_stations[d]['pois'][p]['lat'],
                                         lon: data_stations[d]['pois'][p]['lon'],
+                                        title: data_stations[d]['pois'][p]['title'],
                                         station_id: d,
                                         page_id: data_stations[d]['pois'][p]['pageid'],
                                         dist: data_stations[d]['pois'][p]['dist'],
@@ -92,4 +97,4 @@ data_stations.length.times do |d|
                  })
                    end
 end
-Trivium.create(question: 'naber', options: ['nolsun', 'normol', 'gayet iyi', 'super'], answer: 'super')
+

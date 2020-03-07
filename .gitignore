@@ -22,3 +22,4 @@
 /config/master.key
 
 *.org
+/config/database.yml
