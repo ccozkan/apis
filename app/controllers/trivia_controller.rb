@@ -4,4 +4,13 @@ class TriviaController < ApplicationController
     render json: { status: 1, data: trivium }
   end
 
+  def index
+    trivium = Trivium.all
+    render json: { status: 1, data: trivium }
+  end
+
+  def show
+    trivium = Trivium.find(params[:id])
+    render json: { status: 1, data: trivium }
+  end
 end
